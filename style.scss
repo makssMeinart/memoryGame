@@ -1,0 +1,18 @@
+img {
+  max-width: 100%;
+}
+
+.board {
+  width: 600px;
+  height: 450px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+}
+
+.card {
+  width: 150px;
+  height: 150px;
+  background-color: pink;
+  cursor: pointer;
+}
